@@ -174,8 +174,7 @@ HTML, CSS, and Web Technologies
 
 **Time Estimate** : 350 hours
 
-**Difficulty** : Medium 
-**Task List** :
+**Difficulty** : Medium
 
 ### 5. Add support for Windows native
 Currently, keploy requires a docker to capture the API calls from the application conatiner. It is able to capture the incoming/outgoing network for linux native using the eBPF feature of linux. So to add support for windows, keploy should redirect the incoming/outgoing requests to the transparent proxy.
@@ -231,11 +230,11 @@ Neha Gupta, Charan Kamarapu
 
 **Task List** : Good First Issue for GSoC aspirants
 
-| Tasks | Repo | Actionable's | Fixed by |
-|------|-------|-----------|-----------|
-|   Updating Blog Website with fixes and new features    |   [Keploy](https://github.com/keploy/blog-website)        |     https://github.com/keploy/keploy/issues/1503 <br> https://github.com/keploy/keploy/issues/1504   <br>  https://github.com/keploy/keploy/issues/1238 <br> https://github.com/keploy/keploy/issues/1239 <br> https://github.com/keploy/keploy/issues/1527 | |
+| Tasks | Repo | Actionable's |
+|------|-------|-----------|
+|   Updating Blog Website with fixes and new features    |   [Keploy](https://github.com/keploy/blog-website)        |     https://github.com/keploy/keploy/issues/1503 <br> https://github.com/keploy/keploy/issues/1504   <br>  https://github.com/keploy/keploy/issues/1238 <br> https://github.com/keploy/keploy/issues/1239 <br> https://github.com/keploy/keploy/issues/1527 |
 |   Improve GitHub action for Keploy.                    |   [Keploy](https://github.com/keploy/testGPT)             |     https://github.com/keploy/keploy/issues/1505 <br> https://github.com/keploy/keploy/issues/1506    <br> https://github.com/keploy/keploy/issues/1507  |  |
-|   Add Rust Sample App to showcasing support of rustlang   |   [Samples-Rust](https://github.com/keploy/samples-rust)        |    https://github.com/keploy/keploy/issues/1546    <br> https://github.com/keploy/keploy/issues/1547   |  |
+|   Add Rust Sample App to showcasing support of rustlang   |   [Samples-Rust](https://github.com/keploy/samples-rust)        |    https://github.com/keploy/keploy/issues/1546    <br> https://github.com/keploy/keploy/issues/1547   |
 |   JavaScript Script for Automated Keploy Updates      |  [Keploy](https://github.com/keploy/keploy)          |  https://github.com/keploy/keploy/issues/1524     |  |
 |   GitHub Actions Workflow for VS Code Extension Publishing    |  [Keploy](https://github.com/keploy/keploy)          |  https://github.com/keploy/keploy/issues/1525   | |
 |   Terminating Keploy is not removing docker container | [Keploy](https://github.com/keplopy)   | https://github.com/keploy/keploy/issues/1533  |  |
